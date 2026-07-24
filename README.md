@@ -33,7 +33,7 @@ This repository presents several classical RMQ algorithms implemented in C++ for
 
 ## Requirements
 
-- C++11 or later
+- A standard C++ compiler
 - GCC, Clang, or Microsoft Visual C++
 
 ## Compilation
